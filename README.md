@@ -18,16 +18,26 @@
 
 ```sh
 # tip: check development environment
-$ cmake --version
-$ curl --version
+$ cmake --version  # проверяем версию cmake
+bash: cmake: команда не найдена
+$ curl --version # проверяем версию curl
+ curl 7.64.0
 $ git --version
-$ g++ --version
-$ hub --version
-$ make --version
-$ subl --version
-$ tree --version
-$ wget --version
-$ openssl version
+git version 2.20.1
+$ g++ --version # проверяем версию g++
+g++ (Debian 8.3.0-2) 8.3.0
+$ hub --version # проверяем версию hub
+bash: hub: команда не найдена
+$ make --version # проверяем версию make
+GNU Make 4.2.1
+$ subl --version # проверяем версию subl
+bash: subl: команда не найдена
+$ tree --version # проверяем версию tree
+bash: tree: команда не найдена
+$ wget --version # проверяем версию wget
+GNU Wget 1.20.1 для linux-gnu.
+$ openssl version # проверяем версию opensll
+OpenSSL 1.1.1b  26 Feb 2019
 ```
 
 ## Links
