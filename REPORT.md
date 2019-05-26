@@ -30,11 +30,12 @@ git version 2.20.1
 $ g++ --version # проверяем версию g++
 g++ (Debian 8.3.0-2) 8.3.0
 $ hub --version # проверяем версию hub
-bash: hub: команда не найдена
+git version 2.20.1
+hub version 2.7.0
 $ make --version # проверяем версию make
 GNU Make 4.2.1
 $ subl --version # проверяем версию subl
-bash: subl: команда не найдена
+Sublime Text Build 3207
 $ tree --version # проверяем версию tree
 tree v1.8.0 (c) 1996 - 2018 by Steve Baker, Thomas Moore, Francesc Rocher, Florian Sesser, Kyosuke Tokoro 
 $ wget --version # проверяем версию wget
